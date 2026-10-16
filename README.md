@@ -1,8 +1,4 @@
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=PrarthanaT&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=58B8F0&vCenter=true&width=435&height=80&lines=%24+whoami" alt="whoami">
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=PrarthanaT&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"> </p> <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=40&duration=1500&pause=500&color=58B8F0&vCenter=true&multiline=true&repeat=false&width=600&height=130&lines=%24+whoami;Prarthana" alt="whoami">
 
 ---
 
