@@ -28,6 +28,7 @@ I am looking for full time backend and cloud roles.
 
 **AWS I use most:** Lambda, SQS, SNS, DynamoDB, S3, EC2, EventBridge, CDK
 **Also:** Apache Spark, RAG and LLM pipelines
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrarthanaT/PrarthanaT/output/github-snake-dark.svg">
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/PrarthanaT/PrarthanaT/output/github-snake.svg">
