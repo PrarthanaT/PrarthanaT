@@ -1,25 +1,27 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=120&section=header" alt="header">
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=PrarthanaT&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 </p>
 
-<h1 align="center">Hi, I am Prarthana</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=22&duration=4000&pause=800&color=2563EB&center=true&vCenter=true&width=520&lines=Backend+and+cloud+engineer;Event+driven+systems+on+AWS;I+care+about+what+happens+when+things+fail" alt="Typing intro">
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/prarthana-thathpurusha/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:pthathpu@asu.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=58B8F0&vCenter=true&width=435&height=80&lines=%24+whoami" alt="whoami">
 
 ---
 
-## Right now
+<a href="https://www.linkedin.com/in/prarthana-thathpurusha/"><img src="https://img.shields.io/badge/LinkedIn-Prarthana Thathpurusha-informational?style=flat-square&logo=linkedin&logoColor=white&color=0A66C2" alt="LinkedIn"></a>
+<a href="mailto:pthathpu@asu.edu"><img src="https://img.shields.io/badge/Gmail-ADD_EMAIL-informational?style=flat-square&logo=gmail&logoColor=white&color=EA4335" alt="Email"></a>
 
-- Software engineer at Holiday Channel, where I own the AWS infrastructure for the marketplace notification service
-- MS in Information Technology and Project Management, ASU, 4.0 GPA (May 2026)
-- Looking for full time backend and cloud roles
+## 👋 Hi there
+
+My name is Prarthana, a software engineer at Holiday Channel, where I own the AWS infrastructure for the marketplace notification service.
+
+I just finished my MS in Information Technology and Project Management at ASU with a 4.0 GPA, after a bachelor degree in Computer Science. Before Holiday Channel I interned at Str8bat Solutions, building Java and Spring Boot services on DynamoDB and Redis, plus Spark ETL jobs.
+
+💻 I like building backend systems and cloud infrastructure, especially event driven ones on AWS
+
+🎮 Outside of work I play video games: Pokémon, GTA, Valorant and Overwatch
+
+💃 I also love dancing
+
+I am looking for full time backend and cloud roles.
 
 ## Main skills
 
@@ -36,15 +38,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrarthanaT&layout=compact&langs_count=5&theme=react&hide_border=true" alt="Top languages">
 </a>
 
-## Background
-
-Before Holiday Channel I interned at Str8bat Solutions, building Java and Spring Boot services on DynamoDB and Redis, plus Spark ETL jobs. At ASU I was a teaching assistant for three information technology courses.
-
-## Outside work
-
-- Video games: Pokémon, GTA, Valorant, Overwatch
-- Dancing
-
 ## Contribution snake
 
 <picture>
@@ -55,7 +48,3 @@ Before Holiday Channel I interned at Str8bat Solutions, building Java and Spring
 ## Hiring?
 
 [Download my resume](ADD_RESUME_URL)
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=120&section=footer" alt="footer">
-</p>
