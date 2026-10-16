@@ -3,7 +3,7 @@
 ---
 
 <a href="https://www.linkedin.com/in/prarthana-thathpurusha/"><img src="https://img.shields.io/badge/LinkedIn-Prarthana Thathpurusha-informational?style=flat-square&logo=linkedin&logoColor=white&color=0A66C2" alt="LinkedIn"></a>
-<a href="mailto:pthathpu@asu.edu"><img src="https://img.shields.io/badge/Gmail-ADD_EMAIL-informational?style=flat-square&logo=gmail&logoColor=white&color=EA4335" alt="Email"></a>
+<a href="mailto:pthathpu@asu.edu"><img src="https://img.shields.io/badge/Gmail-pthathpu@asu.edu-informational?style=flat-square&logo=gmail&logoColor=white&color=EA4335" alt="Email"></a>
 
 ## 👋 Hi there
 
