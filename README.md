@@ -4,6 +4,7 @@
 
 <a href="https://www.linkedin.com/in/prarthana-thathpurusha/"><img src="https://img.shields.io/badge/LinkedIn-Prarthana Thathpurusha-informational?style=flat-square&logo=linkedin&logoColor=white&color=0A66C2" alt="LinkedIn"></a>
 <a href="mailto:pthathpu@asu.edu"><img src="https://img.shields.io/badge/Gmail-pthathpu@asu.edu-informational?style=flat-square&logo=gmail&logoColor=white&color=EA4335" alt="Email"></a>
+<a href="https://prarthanat.github.io/prarthana-portfolio/#stack"><img src="https://img.shields.io/badge/Portfolio-Visit-informational?style=flat-square&logo=about.me&logoColor=white&color=00ADB5" alt="Portfolio"></a>
 <a href="ADD_RESUME_URL"><img src="https://img.shields.io/badge/Resume-Download-informational?style=flat-square&logo=googledrive&logoColor=white&color=34A853" alt="Resume"></a>
 
 ## 👋 Hi there
