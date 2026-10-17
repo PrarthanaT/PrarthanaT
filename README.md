@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=40&duration=1500&pause=500&color=58B8F0&vCenter=true&multiline=true&width=600&height=130&lines=%24+whoami;Prarthana+Thathpurusha" alt="whoami">
+<a href="https://github.com/PrarthanaT"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=40&duration=1500&pause=500&color=58B8F0&vCenter=true&multiline=true&width=600&height=130&lines=%24+whoami;Prarthana+Thathpurusha" alt="whoami"></a>
 
 ---
 
