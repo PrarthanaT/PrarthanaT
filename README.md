@@ -1,4 +1,4 @@
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"> Hi there
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="26" height="26" align="absmiddle"> Hi there
 
 My name is Prarthana, a software engineer at Holiday Channel, where I own the AWS infrastructure for the marketplace notification service.
 
