@@ -12,6 +12,7 @@ I like building backend systems and cloud infrastructure, especially event drive
 </p>
 
 **AWS I use most:** Lambda, SQS, SNS, DynamoDB, S3, EC2, EventBridge, CDK
+
 **Also:** Apache Spark, RAG and LLM pipelines
 
 ## Connect with me
