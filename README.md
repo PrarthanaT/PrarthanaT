@@ -13,12 +13,6 @@
   <a href="YOUR_RESUME_URL"><img src="https://img.shields.io/badge/RESUME-2563EB?style=for-the-badge" alt="Resume"></a>
 </p>
 
-<p>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge" alt="LinkedIn"></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/EMAIL-2563EB?style=for-the-badge" alt="Email"></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge" alt="Portfolio"></a>
-  <a href="YOUR_RESUME_URL"><img src="https://img.shields.io/badge/RESUME-2563EB?style=for-the-badge" alt="Resume"></a>
-</p>
 
 ## 👋 Hi there
 
